@@ -21,7 +21,7 @@ Education
 Work Experience
 ======
 * Senior Applied Research Scientist, Cruise LLC, Jul 2021 - Present\
-   -- Research and develop machine learning solutions and algorithms for autonomous vehicles
+   -- Research and develop machine learning solutions and algorithms for autonomous vehicles\
    -- Promoted to Senior II in March 2023
 
 * Graduate Student Researcher, UC San Diego, Sep 2016 - Jun 2021\
@@ -42,7 +42,7 @@ Statistics, Machine Learning, Optimization Theory, Randomized Algorithms, Inform
 
 Academic Services
 ======
-* Conference Reviewer/PC Member for ICML, NeurIPS, COLT, ICLR, STOC, FOCS, SODA, AIStats, AAAI, UAI, APPROX, ISIT, ITML
+* Conference Reviewer/PC Member for ICML, NeurIPS, COLT, ICLR, STOC, FOCS, SODA, AIStats, AAAI, UAI, APPROX, ISIT, ITML since 2019
 * Journal Reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Transactions on Machine Learning Research (TMLR), IEEE Transactions on Signal Processing (TSP), Communications in Information and Systems (CIS), IEEE Transactions on Information Theory (TIT)
 
 Selected Publications
