@@ -37,16 +37,10 @@ Statistics, Machine Learning, Optimization Theory, Randomized Algorithms, Inform
 Academic Services
 ======
 * Conference Reviewer/PC Member for ICML, NeurIPS, COLT, ICLR, STOC, FOCS, SODA, AIStats, AAAI, UAI, APPROX, ISIT, ITML
-* Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Transactions on Machine Learning Research (TMLR), Communications in Information and Systems (CIS), IEEE Transactions on Signal Processing (TSP), IEEE Transactions on Information Theory (TIT)
+* Journal Reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Transactions on Machine Learning Research (TMLR), IEEE Transactions on Signal Processing (TSP), Communications in Information and Systems (CIS), IEEE Transactions on Information Theory (TIT)
 
 Selected Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-**New:**
-
 * **Yi Hao** and Alon Orlitsky. *Compressed Maximum Likelihood*, <span style="color:blue">International Conference on Machine Learning (ICML) 2021, [[paper](http://proceedings.mlr.press/v139/hao21c.html)]</span>.
 * **Yi Hao**. *Competitive and Universal Learning*, <span style="color:blue">eScholarship - UC San Diego, 2021, [[thesis](https://escholarship.org/uc/item/9g35g4df)]</span>.
 * **Yi Hao** and Ping Li. *Optimal Prediction of the Number of Unseen Species with Multiplicity*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2020 (Oral spotlight), [[paper](https://proceedings.neurips.cc/paper/2020/hash/618790ae971abb5610b16c826fb72d01-Abstract.html)]</span>.
