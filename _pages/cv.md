@@ -20,16 +20,16 @@ Education
 
 Work Experience
 ======
-* Senior Applied Research Scientist, Cruise LLC, Jul 2021 - Present\
-** Research and develop machine learning solutions and algorithms for autonomous vehicles
+* Senior Applied Research Scientist, Cruise LLC, Jul 2021 - Present
+  * Research and develop machine learning solutions and algorithms for autonomous vehicles
 
-* Graduate Student Researcher, UC San Diego, Sep 2016 - Jun 2021\
-** Research on machine learning and algorithm design
+* Graduate Student Researcher, UC San Diego, Sep 2016 - Jun 2021
+  * Research on machine learning and algorithm design
 
 * Applied Scientist Intern, Amazon Web Services (AWS), Jun 2020 - Sep 2020
 
-* Graduate Teaching Assistant, UC San Diego, Sep 2019 - Dec 2019\
-** ECE 225A: Probability and Statistics for Data Science
+* Graduate Teaching Assistant, UC San Diego, Sep 2019 - Dec 2019
+  * ECE 225A: Probability and Statistics for Data Science
 
 * Summer Research Intern, Baidu USA, Jun 2019 - Sep 2019
 
@@ -41,8 +41,8 @@ Statistics, Machine Learning, Optimization Theory, Randomized Algorithms, Inform
 
 Academic Services
 ======
-* Conference Reviewer/PC Member for ICML, NeurIPS, COLT, ICLR, STOC, FOCS, SODA, AIStats, AAAI, UAI, APPROX, ISIT, ITML since 2019
-* Journal Reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Transactions on Machine Learning Research (TMLR), IEEE Transactions on Signal Processing (TSP), Communications in Information and Systems (CIS), IEEE Transactions on Information Theory (TIT)
+* Conference reviewer and/or PC member for ICML, NeurIPS, COLT, ICLR, STOC, FOCS, SODA, AIStats, AAAI, UAI, APPROX, ISIT, ITML since 2019
+* Journal reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Transactions on Machine Learning Research (TMLR), IEEE Transactions on Signal Processing (TSP), Communications in Information and Systems (CIS), IEEE Transactions on Information Theory (TIT)
 
 Selected Publications
 ======
