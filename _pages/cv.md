@@ -22,7 +22,7 @@ Work Experience
 ======
 * Graduate Student Researcher / Teaching Assistant, UC San Diego, Sep 2016 - Jun 2021\
    -- Research on machine learning and algorithm design\
-   -- TA for ECE 225A: Probability and Statistics for Data Science
+   -- TA for Probability and Statistics for Data Science
 
 * Applied Scientist Intern, Amazon Web Services (AWS), Jun 2020 - Sep 2020
 
@@ -46,7 +46,6 @@ Selected Publications
   {% endfor %}</ul>
 
 **New:**
-* . <em></em>, <span style="color:blue">[[paper](http://proceedings.mlr.press/v139/hao21c.html)]</span>.
 
 * **Yi Hao** and Alon Orlitsky. *Compressed Maximum Likelihood*, <span style="color:blue">International Conference on Machine Learning (ICML) 2021, [[paper](http://proceedings.mlr.press/v139/hao21c.html)]</span>.
 * **Yi Hao**. *Competitive and Universal Learning*, <span style="color:blue">eScholarship - UC San Diego, 2021, [[thesis](https://escholarship.org/uc/item/9g35g4df)]</span>.
@@ -61,5 +60,3 @@ Selected Publications
 * **Yi Hao**, Alon Orlitsky, Ananda Theertha Suresh, Yihong Wu. *Data Amplification: A Unified and Competitive Approach to Property Estimation*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2018, [[paper](https://papers.nips.cc/paper_files/paper/2018/hash/a753a43564c29148df3150afb4475440-Abstract.html)]</span>.
 * **Yi Hao**, Alon Orlitsky, Venkatadheeraj Pichapati. *On Learning Markov Chains*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2018, [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/d34ab169b70c9dcd35e62896010cd9ff-Abstract.html)]</span>.
 * Moein Falahatgar, **Yi Hao**, Alon Orlitsky, Venkatadheeraj Pichapati, Vaishakh Ravindrakumar. *Maxing and Ranking with Few Assumptions*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2017, [[paper](https://papers.nips.cc/paper_files/paper/2017/hash/db98dc0dbafde48e8f74c0de001d35e4-Abstract.html)]</span>.
-
-
