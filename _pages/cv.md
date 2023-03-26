@@ -16,15 +16,21 @@ Education
 * B.Sc. Mathematics, First Class Honours, The Chinese University of Hong Kong, 2015
 * B.Eng. Information Engineering, First Class Honours, The Chinese University of Hong Kong, 2015
 * Ph.D. Electrical Engineering, University of California, San Diego, 2021\
-  I was fortunate to be supervised by <span style="color:blue">[Prof. Alon Orlitsky](https://en.wikipedia.org/wiki/Alon_Orlitsky)</span>.\
+  I was fortunate to be supervised by <span style="color:blue">[Prof. Alon Orlitsky](https://en.wikipedia.org/wiki/Alon_Orlitsky)</span>
 
 Work Experience
 ======
-* Graduate Student Researcher / Teaching Assistant, UC San Diego, Sep 2016 - Jun 2021\
-   -- Research on machine learning and algorithm design\
-   -- TA for Probability and Statistics for Data Science
+* Senior Applied Research Scientist, Cruise LLC, Jul 2021 - Present\
+   -- Research and develop machine learning solutions and algorithms for autonomous vehicles
+   -- Promoted to Senior II in March 2023
+
+* Graduate Student Researcher, UC San Diego, Sep 2016 - Jun 2021\
+   -- Research on machine learning and algorithm design
 
 * Applied Scientist Intern, Amazon Web Services (AWS), Jun 2020 - Sep 2020
+
+* Graduate Teaching Assistant, UC San Diego, Sep 2019 - Dec 2019\
+   -- ECE 225A: Probability and Statistics for Data Science
 
 * Summer Research Intern, Baidu USA, Jun 2019 - Sep 2019
 
