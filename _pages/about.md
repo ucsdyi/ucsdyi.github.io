@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website!
+Welcome to my personal website! Please feel free to check out my [LinkedIn](https://www.linkedin.com/in/yi-hao-25229b176/), [Google Scholar](https://scholar.google.com/citations?user=sTmPxa4AAAAJ&hl=en), and [latest CV](https://ucsdyi.github.io/cv/). 
