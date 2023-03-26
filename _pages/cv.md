@@ -37,7 +37,7 @@ Work Experience
 
 Interests
 ======
-Statistics, Machine Learning, Optimization Theory, Randomized Algorithms, Information Theory, Algorithm Design
+Statistics, Machine Learning, Optimization Theory, Randomized Algorithms, Information Theory, Data Mining
 
 Academic Services
 ======
