@@ -13,9 +13,9 @@ I'm an AI researcher working on autonomous vehicles, data science, and machine l
 
 Education
 ======
-* B.Sc. Mathematics, First Class Honours, The Chinese University of Hong Kong, 2015
-* B.Eng. Information Engineering, First Class Honours, The Chinese University of Hong Kong, 2015
-* Ph.D. Electrical Engineering, University of California, San Diego, 2021\
+* B.Sc. in Mathematics, First Class Honours, The Chinese University of Hong Kong, 2015
+* B.Eng. in Information Engineering, First Class Honours, The Chinese University of Hong Kong, 2015
+* Ph.D. in Electrical Engineering, University of California, San Diego, 2021\
   I was fortunate to be supervised by <span style="color:blue">[Prof. Alon Orlitsky](https://en.wikipedia.org/wiki/Alon_Orlitsky)</span>
 
 Work Experience
