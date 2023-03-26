@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "About"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,57 @@ redirect_from:
 
 {% include base_path %}
 
+I'm an AI researcher working on autonomous vehicles, data science, and machine learning at Cruise.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. Mathematics, First Class Honours, The Chinese University of Hong Kong, 2015
+* B.Eng. Information Engineering, First Class Honours, The Chinese University of Hong Kong, 2015
+* Ph.D. Electrical Engineering, University of California, San Diego, 2021\
+  I was fortunate to be supervised by <span style="color:blue">[Prof. Alon Orlitsky](https://en.wikipedia.org/wiki/Alon_Orlitsky)</span>.\
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Student Researcher / Teaching Assistant, UC San Diego, Sep 2016 - Jun 2021\
+   -- Research on machine learning and algorithm design\
+   -- TA for ECE 225A: Probability and Statistics for Data Science
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Applied Scientist Intern, Amazon Web Services (AWS), Jun 2020 - Sep 2020
+
+* Summer Research Intern, Baidu USA, Jun 2019 - Sep 2019
+
+* Work Placement Trainee, HSBC, Jul 2014 - Jun 2015
+
+Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Statistics, Machine Learning, Optimization Theory, Randomized Algorithms, Information Theory, Algorithm Design
 
-Publications
+Academic Services
+======
+* Conference Reviewer/PC Member for ICML, NeurIPS, COLT, ICLR, STOC, FOCS, SODA, AIStats, AAAI, UAI, APPROX, ISIT, ITML
+* Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Transactions on Machine Learning Research (TMLR), Communications in Information and Systems (CIS), IEEE Transactions on Signal Processing (TSP), IEEE Transactions on Information Theory (TIT)
+
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+**New:**
+* . <em></em>, <span style="color:blue">[[paper](http://proceedings.mlr.press/v139/hao21c.html)]</span>.
+
+* **Yi Hao** and Alon Orlitsky. *Compressed Maximum Likelihood*, <span style="color:blue">International Conference on Machine Learning (ICML) 2021, [[paper](http://proceedings.mlr.press/v139/hao21c.html)]</span>.
+* **Yi Hao**. *Competitive and Universal Learning*, <span style="color:blue">eScholarship - UC San Diego, 2021, [[thesis](https://escholarship.org/uc/item/9g35g4df)]</span>.
+* **Yi Hao** and Ping Li. *Optimal Prediction of the Number of Unseen Species with Multiplicity*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2020 (Oral spotlight), [[paper](https://proceedings.neurips.cc/paper/2020/hash/618790ae971abb5610b16c826fb72d01-Abstract.html)]</span>.
+* **Yi Hao** and Alon Orlitsky. *Profile Entropy: A Fundamental Measure for the Learnability and Compressibility of Distributions*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2020, [[paper](https://proceedings.neurips.cc/paper/2020/file/4dbf29d90d5780cab50897fb955e4373-Paper.pdf)]</span>.
+* **Yi Hao**, Ayush Jain, Alon Orlitsky, Vaishakh Ravindrakumar. *SURF: A Simple, Universal, Robust, Fast Distribution Learning Algorithm*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2020, [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/7ac52e3f2729d1b3f6d2b7e8f6467226-Paper.pdf)]</span>.
+* **Yi Hao** and Alon Orlitsky. *Bessel Smoothing and Multi-Distribution Property Estimation*, <span style="color:blue">Conference on Learning Theory 2020, [[paper](http://proceedings.mlr.press/v125/hao20a/hao20a.pdf)]</span>.
+* **Yi Hao** and Alon Orlitsky. *Data Amplification: Instance-Optimal Property Estimation*, <span style="color:blue">International Conference on Machine Learning (ICML) 2020, [[paper](https://dl.acm.org/doi/abs/10.5555/3524938.3525317)]</span>.
+* **Yi Hao** and Alon Orlitsky. *The Broad Optimality of Profile Maximum Likelihood*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2019 (Oral spotlight), [[paper](https://papers.nips.cc/paper_files/paper/2019/hash/f9fd5ec4c141a95257aa99ef1b590672-Abstract.html)]</span>.
+* **Yi Hao** and Alon Orlitsky. *Unified Sample-Optimal Property Estimation in Near-Linear Time*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2019, [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/800b03685c22049f049801f6841861a2-Abstract.html)]</span>.
+* **Yi Hao** and Alon Orlitsky. *Doubly Competitive Distribution Estimation*, <span style="color:blue">International Conference on Machine Learning (ICML) 2019 (Oral), [[paper](http://proceedings.mlr.press/v97/hao19a.html)]</span>.
+* **Yi Hao**, Alon Orlitsky, Ananda Theertha Suresh, Yihong Wu. *Data Amplification: A Unified and Competitive Approach to Property Estimation*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2018, [[paper](https://papers.nips.cc/paper_files/paper/2018/hash/a753a43564c29148df3150afb4475440-Abstract.html)]</span>.
+* **Yi Hao**, Alon Orlitsky, Venkatadheeraj Pichapati. *On Learning Markov Chains*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2018, [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/d34ab169b70c9dcd35e62896010cd9ff-Abstract.html)]</span>.
+* Moein Falahatgar, **Yi Hao**, Alon Orlitsky, Venkatadheeraj Pichapati, Vaishakh Ravindrakumar. *Maxing and Ranking with Few Assumptions*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2017, [[paper](https://papers.nips.cc/paper_files/paper/2017/hash/db98dc0dbafde48e8f74c0de001d35e4-Abstract.html)]</span>.
+
+
